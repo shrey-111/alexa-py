@@ -1,1 +1,2 @@
-I have created my first project of python taht is Alexa or Jarvis AI.
+ROMANTIC ALEXA
+I have created my first project of python that is ALEXA or JARVIS AI.
